@@ -6,7 +6,7 @@ Group01: Deepthi Warrier Edakunni, Tejashri Anil Joshi
 
 The Demo for this project can be found at https://youtu.be/l4PaIgnuj6Y
 
-The Poster is available at : 
+The Poster is available at : https://github.com/deep-war/ParkSmart---IOT-Project/blob/master/ParkSmartPoster-Group01.pdf
 
 Files Needed to test the project:
 
