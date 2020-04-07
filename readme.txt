@@ -4,6 +4,10 @@ Park Smart – Final Project ReadMe.txt
 Group01: Deepthi Warrier Edakunni, Tejashri Anil Joshi
 ############################################################################
 
+The Demo for this project can be found at https://youtu.be/l4PaIgnuj6Y
+
+The Poster is available at : 
+
 Files Needed to test the project:
 
 Python Scripts - 
