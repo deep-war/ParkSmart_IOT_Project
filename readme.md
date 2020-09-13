@@ -1,12 +1,13 @@
-###########################################################################
+#############################################
 TCSS 573A: Internet of Things (IoT)
 Park Smart – Final Project ReadMe.txt
 Group01: Deepthi Warrier Edakunni, Tejashri Anil Joshi
-############################################################################
+#########################################
 
 The Demo for this project can be found at https://youtu.be/l4PaIgnuj6Y
 
 The Poster is available at : https://github.com/deep-war/ParkSmart---IOT-Project/blob/master/ParkSmartPoster-Group01.pdf
+
 ![alt text](https://github.com/deep-war/ParkSmart---IOT-Project/blob/master/ParkSmartPoster-Group01.jpg?raw=true)
 
 Files Needed to test the project:
@@ -65,10 +66,7 @@ IBM Cloud Dashboard:
 ----------------------------------------
 For the user id set up for IBM cloud, the dashboard displays the status of the parking spots, the total available parking spots and the total number of reservations done for todays date.
 
-########################################################################################################################################################################################################################################################################################################
-
-
-
+########################################################################################
  
 
 
