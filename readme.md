@@ -1,4 +1,4 @@
-#TCSS 573A: Internet of Things (IoT) - Park Smart  
+# TCSS 573A: Internet of Things (IoT) - Park Smart  
 
 **Group01: Deepthi Warrier Edakunni, Tejashri Anil Joshi**
 
