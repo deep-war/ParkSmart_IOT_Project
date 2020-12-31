@@ -30,4 +30,4 @@ The dashboard displays bar charts for the number of reservations done per day fo
 For the user id set up for IBM cloud, the dashboard displays the status of the parking spots, the total available parking spots and the total number of reservations done for todays date.
 
 
-#### Code will be provided upon request - Please contact deepthi.warrier@gmail.com for more info
+###### *Code will be provided upon request - Please contact deepthi.warrier@gmail.com for more info*
