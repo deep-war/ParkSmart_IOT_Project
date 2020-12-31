@@ -1,7 +1,5 @@
 # TCSS 573A: Internet of Things (IoT) - Park Smart  
 
-**Group01: Deepthi Warrier Edakunni, Tejashri Anil Joshi**
-
 The Demo for this project can be found at *https://www.youtube.com/watch?v=l4PaIgnuj6Y&t=26s*
 
 The Poster is available at : *https://github.com/deep-war/ParkSmart---IOT-Project/blob/master/ParkSmartPoster-Group01.pdf*
