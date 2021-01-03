@@ -1,4 +1,4 @@
-# TCSS 573A: Internet of Things (IoT) - Park Smart  
+# Internet of Things (IoT) - Park Smart  
 
 The Demo for this project can be found at *https://www.youtube.com/watch?v=l4PaIgnuj6Y&t=26s*
 
